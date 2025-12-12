@@ -19,3 +19,5 @@
 # Hardhat coverage reports
 /coverage
 .env
+typechain-types
+package-lock.json

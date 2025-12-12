@@ -18,6 +18,7 @@ A pooled on-chain insurance protocol where stakers supply liquidity and customer
 - OpenZeppelin `ReentrancyGuard` (`@openzeppelin/contracts/security/ReentrancyGuard.sol`).
 
 ## Build & Test
+- Install Node version 22.
 - Install dependencies (e.g., `npm install` with Hardhat/Foundry setup).
 - Compile: `npx hardhat compile`.
 - Test: `npx hardhat test`.
